@@ -4,3 +4,8 @@ have fun and explore the data dimensions of various algorithms
 * velocity - the rate of new data generation when the algorithm is used, it can be zero
 * variety - the variety quantifies how many different types of data the designed algorithm will process
 
+### performance estimation
+
+### Big O
+#### Constant Time O(1)
+
