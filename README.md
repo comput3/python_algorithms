@@ -5,7 +5,7 @@ have fun and explore the data dimensions of various algorithms
 * variety - the variety quantifies how many different types of data the designed algorithm will process
 
 ### performance estimation
-
+Best case, worst case, and average case needs to be considered.
 ### Big O
 #### Logarithmic Time O(logn)
 The algorithm execution time is proportional to the logarithm og the input size.
