@@ -8,4 +8,5 @@ have fun and explore the data dimensions of various algorithms
 
 ### Big O
 #### Constant Time O(1)
-
+#### Linear Time O(n)
+#### Quadradic Time O(n**2)
